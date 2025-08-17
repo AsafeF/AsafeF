@@ -19,3 +19,15 @@
 ---
 
 ✨ Este repositório é destinado a projetos do curso de **Técnico em Desenvolvimento de Sistemas** e também para estudos extras, com o objetivo de fortalecer meu aprendizado e montar um portfólio sólido.
+
+
+ # Minhas Estatísticas no GitHub
+<!-- Estatísticas gerais -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AsafeF&show_icons=true&theme=radical)
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AsafeF&layout=compact&langs_count=8&theme=radical)
+
+<!-- Contribuições em streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=AsafeF&theme=radical)
+
